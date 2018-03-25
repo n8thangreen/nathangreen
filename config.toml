@@ -7,7 +7,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "Academic"
+title = "Nathan Green"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,7 +51,7 @@ defaultContentLanguageInSubdir = false
   font = "default"
 
   # Your details.
-  name = "Lena Smith"
+  name = "Nathan Green"
   role = "Professor of Artificial Intelligence"
 
   # Organizations/Affiliations.
