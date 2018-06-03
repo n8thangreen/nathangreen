@@ -61,9 +61,9 @@ defaultContentLanguageInSubdir = false
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "nathan.green@imperial.co.uk"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
+  address = "UG11, Dept of Infectious Disease Epidemiology, School of Public Health, Faculty of Medicine, Imperial College London, St Mary’s Campus, Norfolk Place, London W2 1PG, UK"
+  office_hours = ""
+  phone = "8+44 (0)20 7594 5782"
   skype = "n8thangreen"
   telegram = ""
 
@@ -95,8 +95,8 @@ defaultContentLanguageInSubdir = false
   #   3: OpenStreetMap (Mapbox)
   map = 0
   map_api_key = ""
-  latitude = "37.4275"
-  longitude = "-122.1697"
+  latitude = "51.517383"
+  longitude = "-0.173699"
   zoom = 15
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
