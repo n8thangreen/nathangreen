@@ -234,8 +234,33 @@ defaultContentLanguageInSubdir = false
     icon = "github"
     icon_pack = "fa"
     link = "//github.com/n8thangreen"
+    
+  [[params.social]]
+    icon = "university"
+    icon_pack = "fa"
+    link = "https://www.imperial.ac.uk/people/nathan.green"
+  
+  [[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "https://www.linkedin.com/in/dr-nathan-green/" 
 
-
+  [[params.social]]
+    icon = "orcid"
+    icon_pack = "ai"
+    link = " https://orcid.org/0000-0003-2745-1736"
+    
+      [[params.social]]
+    icon = "researchgate"
+    icon_pack = "ai"
+    link = "https://www.researchgate.net/profile/Nathan_Green"
+    
+      [[params.social]]
+    icon = "mendeley"
+    icon_pack = "ai"
+    link = "https://www.mendeley.com/profiles/nathan-green1/"
+    
+    
 # Navigation Links
 #   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
 #     desired widget in your `content/home/` folder.
