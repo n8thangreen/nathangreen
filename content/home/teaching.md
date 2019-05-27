@@ -17,8 +17,7 @@ weight = 60
 
 I am course co-leader for SPH024: Advanced Regression module as part of the MSc in Epidemiology and Public Health at Imperial College London.
 
-
-I have tutors, supervised and lectured for the following courses at Imperial College London:
+I have tutored, supervised and lectured for the following courses at Imperial College London:
 
 - 4th year Medicine: Computational Medicine
 - BSc in Epidemiology

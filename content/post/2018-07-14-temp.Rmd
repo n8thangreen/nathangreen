@@ -1,8 +1,8 @@
 ---
-title: hello-world.Rmd
-author: ~
+title: temp
+author: Nathan Green
 date: '2018-07-14'
-slug: hello-world-rmd
+slug: temp
 categories: []
 tags: []
 header:
@@ -10,4 +10,3 @@ header:
   image: ''
 ---
 
-rgsggfsgfds blah blah blah

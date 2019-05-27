@@ -4,21 +4,22 @@
 # The URL of your website.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 # baseurl = "http://nathangreen.xyz/"
-baseurl = "/"
+baseurl = "nathangreen.netlify.com/"
+#baseurl = "/"
 
 # Title of your site
 title = "Dr Nathan Green"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "&copy; 2018"
+copyright = "&copy; Nathan Green 2018"
 
 theme = "hugo-academic"
 enableEmoji = true
 footnotereturnlinkcontents = "<sup>^</sup>"
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
-paginate = 10
+paginate = 40
 
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
@@ -52,18 +53,18 @@ defaultContentLanguageInSubdir = false
 
   # Your details.
   name = "Nathan Green"
-  role = "Mathematical Modeller"
+  role = "Mathematical Modeller in Public Health"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
-  organizations = [ { name = "Imperial College London", url = "" } ]
+  organizations = [ { name = "Imperial College London", url = "https://www.imperial.ac.uk/medicine/research-and-impact/themes/infectious-disease-epidemiology/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   email = "nathan.green@imperial.co.uk"
-  address = "UG11, Dept of Infectious Disease Epidemiology, School of Public Health, Faculty of Medicine, Imperial College London, St Mary’s Campus, Norfolk Place, London W2 1PG, UK"
-  office_hours = ""
-  phone = "8+44 (0)20 7594 5782"
+  address = "UG11, Dept of Infectious Disease Epidemiology, School of Public Health, Faculty of Medicine, Imperial College London, St Mary’s Campus, Norfolk Place, London, W2 1PG, UK"
+  ##office_hours = ""
+  phone = "+44 (0)20 7594 5782"
   skype = "n8thangreen"
   telegram = ""
 
@@ -93,7 +94,7 @@ defaultContentLanguageInSubdir = false
   #   1: Google Maps
   #   2: OpenStreetMap (Mapnik)
   #   3: OpenStreetMap (Mapbox)
-  map = 0
+  map = 1
   map_api_key = ""
   latitude = "51.517383"
   longitude = "-0.173699"
@@ -103,7 +104,7 @@ defaultContentLanguageInSubdir = false
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
   date_format = "Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
-  time_format = "3:04 PM"
+  time_format = "3:04 pm"
 
   # Show estimated reading time for posts?
   reading_time = true
@@ -146,7 +147,7 @@ defaultContentLanguageInSubdir = false
   #   For more info on the highlighting options, see:
   #   https://sourcethemes.com/academic/post/writing-markdown-latex/#highlighting-options
   highlight = true
-  highlight_languages = []
+  highlight_languages = ["r"]
   # highlight_style = "github"
 
   # Enable native social sharing buttons?
@@ -250,20 +251,20 @@ defaultContentLanguageInSubdir = false
     icon_pack = "ai"
     link = " https://orcid.org/0000-0003-2745-1736"
     
-      [[params.social]]
+  [[params.social]]
     icon = "researchgate"
     icon_pack = "ai"
     link = "https://www.researchgate.net/profile/Nathan_Green"
     
-      [[params.social]]
+  [[params.social]]
     icon = "mendeley"
     icon_pack = "ai"
     link = "https://www.mendeley.com/profiles/nathan-green1/"
     
     
 # Navigation Links
-#   To link a homepage widget, specify the URL as a hash `#` followed by the filename of the
-#     desired widget in your `content/home/` folder.
+#   To link a homepage widget, specify the URL as a hash `#` followed by thefilename of the
+#   desired widget in your `content/home/` folder.
 #   The weight parameter defines the order that the links will appear in.
 [params.menus]
   # Align the main menu to the right of the page? (true/false)
@@ -275,29 +276,35 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
+  name = "Blog"
+  url = "#blog" #"#blog"
   weight = 2
-
-[[menu.main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 3
 
 [[menu.main]]
   name = "Projects"
   url = "#projects"
-  weight = 4
+  weight = 3
 
 [[menu.main]]
   name = "Teaching"
   url = "#teaching"
-  weight = 5
+  weight = 4
 
 [[menu.main]]
   name = "Contact"
   url = "#contact"
+  weight = 5
+
+[[menu.main]]
+  name = "Science communication"
+  url = "#science_communication"
   weight = 6
+  
+[[menu.main]]
+  name = "Science journalism"
+  url = "#science_journalism"
+  weight = 7
+
 
 # Taxonomies.
 [taxonomies]
