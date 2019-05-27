@@ -2,29 +2,29 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr Nathan Green on Dr Nathan Green</title>
-    <link>/nathangreen.netlify.com/</link>
+    <link>/</link>
     <description>Recent content in Dr Nathan Green on Dr Nathan Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
-    <atom:link href="/nathangreen.netlify.com/" rel="self" type="application/rss+xml" />
+    <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Blog</title>
-      <link>/nathangreen.netlify.com/blog/blog/</link>
+      <link>/blog/blog/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/nathangreen.netlify.com/blog/blog/</guid>
+      <guid>/blog/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Science journalism</title>
-      <link>/nathangreen.netlify.com/science_journalism/science_journalism/</link>
+      <link>/science_journalism/science_journalism/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/nathangreen.netlify.com/science_journalism/science_journalism/</guid>
+      <guid>/science_journalism/science_journalism/</guid>
       <description>
 
 &lt;!--
@@ -38,86 +38,86 @@ A complete publications list is [here](../misc/publicationslist).
     
     <item>
       <title>Tags</title>
-      <link>/nathangreen.netlify.com/blog/tags/</link>
+      <link>/blog/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
       
-      <guid>/nathangreen.netlify.com/blog/tags/</guid>
+      <guid>/blog/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>/nathangreen.netlify.com/blog/test/</link>
+      <link>/blog/test/</link>
       <pubDate>Mon, 27 May 2019 13:18:56 +0100</pubDate>
       
-      <guid>/nathangreen.netlify.com/blog/test/</guid>
+      <guid>/blog/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dfdfd</title>
-      <link>/nathangreen.netlify.com/blog/dfdfd/</link>
+      <link>/blog/dfdfd/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>/nathangreen.netlify.com/blog/dfdfd/</guid>
+      <guid>/blog/dfdfd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>temp</title>
-      <link>/nathangreen.netlify.com/post/temp/</link>
+      <link>/post/temp/</link>
       <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/nathangreen.netlify.com/post/temp/</guid>
+      <guid>/post/temp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>testr2</title>
-      <link>/nathangreen.netlify.com/post/testr2/</link>
+      <link>/post/testr2/</link>
       <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>/nathangreen.netlify.com/post/testr2/</guid>
+      <guid>/post/testr2/</guid>
       <description>&lt;p&gt;more testing nhufdashfoidjhfikajflkdjf&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>/nathangreen.netlify.com/talk/example-talk/</link>
+      <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/nathangreen.netlify.com/talk/example-talk/</guid>
+      <guid>/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Probably certain decision-making</title>
-      <link>/nathangreen.netlify.com/science_communication/nerd_nite/</link>
+      <link>/science_communication/nerd_nite/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/nathangreen.netlify.com/science_communication/nerd_nite/</guid>
+      <guid>/science_communication/nerd_nite/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Ronald Fisher vs Karl Pearson</title>
-      <link>/nathangreen.netlify.com/science_communication/science_showoff/</link>
+      <link>/science_communication/science_showoff/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>/nathangreen.netlify.com/science_communication/science_showoff/</guid>
+      <guid>/science_communication/science_showoff/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Deep Learning</title>
-      <link>/nathangreen.netlify.com/project/deep-learning/</link>
+      <link>/project/deep-learning/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/nathangreen.netlify.com/project/deep-learning/</guid>
+      <guid>/project/deep-learning/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
 
 &lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
@@ -132,19 +132,19 @@ A complete publications list is [here](../misc/publicationslist).
     
     <item>
       <title>External Project</title>
-      <link>/nathangreen.netlify.com/project/example-external-project/</link>
+      <link>/project/example-external-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/nathangreen.netlify.com/project/example-external-project/</guid>
+      <guid>/project/example-external-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>/nathangreen.netlify.com/post/getting-started/</link>
+      <link>/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>/nathangreen.netlify.com/post/getting-started/</guid>
+      <guid>/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; is a framework to help you create a beautiful website quickly. Perfect for personal sites, blogs, or business/project sites. &lt;a href=&#34;https://themes.gohugo.io/theme/academic/&#34; target=&#34;_blank&#34;&gt;Check out the latest demo&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes. Then head on over to the &lt;a href=&#34;https://sourcethemes.com/academic/docs/&#34; target=&#34;_blank&#34;&gt;Quick Start guide&lt;/a&gt; or take a look at the &lt;a href=&#34;https://sourcethemes.com/academic/updates/&#34; target=&#34;_blank&#34;&gt;Release Notes&lt;/a&gt;.&lt;/p&gt;
@@ -329,19 +329,19 @@ git submodule update --init --recursive
     
     <item>
       <title>Learn to love the S word: statistics</title>
-      <link>/nathangreen.netlify.com/publication/02-12-2011-guardian/</link>
+      <link>/publication/02-12-2011-guardian/</link>
       <pubDate>Fri, 02 Dec 2011 00:00:00 +0000</pubDate>
       
-      <guid>/nathangreen.netlify.com/publication/02-12-2011-guardian/</guid>
+      <guid>/publication/02-12-2011-guardian/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sports data and the recipe for success</title>
-      <link>/nathangreen.netlify.com/publication/16-09-2011-guardian/</link>
+      <link>/publication/16-09-2011-guardian/</link>
       <pubDate>Fri, 16 Sep 2011 00:00:00 +0000</pubDate>
       
-      <guid>/nathangreen.netlify.com/publication/16-09-2011-guardian/</guid>
+      <guid>/publication/16-09-2011-guardian/</guid>
       <description></description>
     </item>
     
