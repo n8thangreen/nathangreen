@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Dr Nathan Green</title>
-    <link>nathangreen.netlify.com/home/</link>
+    <link>/nathangreen.netlify.com/home/</link>
     <description>Recent content in Homes on Dr Nathan Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
     <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="nathangreen.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/nathangreen.netlify.com/home/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>fffff</title>
-      <link>nathangreen.netlify.com/home/hero/</link>
+      <link>/nathangreen.netlify.com/home/hero/</link>
       <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
       
-      <guid>nathangreen.netlify.com/home/hero/</guid>
+      <guid>/nathangreen.netlify.com/home/hero/</guid>
       <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
 (function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
     </item>
     
     <item>
       <title></title>
-      <link>nathangreen.netlify.com/home/about/</link>
+      <link>/nathangreen.netlify.com/home/about/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>nathangreen.netlify.com/home/about/</guid>
+      <guid>/nathangreen.netlify.com/home/about/</guid>
       <description>Biography I am a Statistician and Mathematical Modeller Research Fellow in the Department of Infectious Disease Epidemiology. I am also involved with the Statistics, Modelling and Economics Department at Public Health England.
 I have a number of years experience working on a wide range of projects across government and academia in defence and health.
 I studied mathematics and statistics at the University of Newcastle-Upon-Tyne and obtained a PhD in applied probability from the University of Liverpool.</description>
@@ -35,73 +35,73 @@ I studied mathematics and statistics at the University of Newcastle-Upon-Tyne an
     
     <item>
       <title>Recent Publications</title>
-      <link>nathangreen.netlify.com/home/publications/</link>
+      <link>/nathangreen.netlify.com/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>nathangreen.netlify.com/home/publications/</guid>
+      <guid>/nathangreen.netlify.com/home/publications/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent &amp; Upcoming Talks</title>
-      <link>nathangreen.netlify.com/home/talks/</link>
+      <link>/nathangreen.netlify.com/home/talks/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>nathangreen.netlify.com/home/talks/</guid>
+      <guid>/nathangreen.netlify.com/home/talks/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Science Communication</title>
-      <link>nathangreen.netlify.com/home/science_communication/</link>
+      <link>/nathangreen.netlify.com/home/science_communication/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>nathangreen.netlify.com/home/science_communication/</guid>
+      <guid>/nathangreen.netlify.com/home/science_communication/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Science Journalism</title>
-      <link>nathangreen.netlify.com/home/science_journalism/</link>
+      <link>/nathangreen.netlify.com/home/science_journalism/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>nathangreen.netlify.com/home/science_journalism/</guid>
+      <guid>/nathangreen.netlify.com/home/science_journalism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>nathangreen.netlify.com/home/blog/</link>
+      <link>/nathangreen.netlify.com/home/blog/</link>
       <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>nathangreen.netlify.com/home/blog/</guid>
+      <guid>/nathangreen.netlify.com/home/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Recent Posts</title>
-      <link>nathangreen.netlify.com/home/posts/</link>
+      <link>/nathangreen.netlify.com/home/posts/</link>
       <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
       
-      <guid>nathangreen.netlify.com/home/posts/</guid>
+      <guid>/nathangreen.netlify.com/home/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Projects</title>
-      <link>nathangreen.netlify.com/home/projects/</link>
+      <link>/nathangreen.netlify.com/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>nathangreen.netlify.com/home/projects/</guid>
+      <guid>/nathangreen.netlify.com/home/projects/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Teaching</title>
-      <link>nathangreen.netlify.com/home/teaching/</link>
+      <link>/nathangreen.netlify.com/home/teaching/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>nathangreen.netlify.com/home/teaching/</guid>
+      <guid>/nathangreen.netlify.com/home/teaching/</guid>
       <description>I am course co-leader for SPH024: Advanced Regression module as part of the MSc in Epidemiology and Public Health at Imperial College London.
 I have tutored, supervised and lectured for the following courses at Imperial College London:
  4th year Medicine: Computational Medicine BSc in Epidemiology BSc Life Sciences Principles and Methods of Epidemiology Principles of Global Epidemiology  </description>
@@ -109,19 +109,19 @@ I have tutored, supervised and lectured for the following courses at Imperial Co
     
     <item>
       <title>Tags</title>
-      <link>nathangreen.netlify.com/home/tags/</link>
+      <link>/nathangreen.netlify.com/home/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
       
-      <guid>nathangreen.netlify.com/home/tags/</guid>
+      <guid>/nathangreen.netlify.com/home/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>nathangreen.netlify.com/home/contact/</link>
+      <link>/nathangreen.netlify.com/home/contact/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>nathangreen.netlify.com/home/contact/</guid>
+      <guid>/nathangreen.netlify.com/home/contact/</guid>
       <description></description>
     </item>
     
