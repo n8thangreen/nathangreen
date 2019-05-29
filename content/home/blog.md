@@ -1,11 +1,11 @@
 +++
 # Recent Posts widget.
-# This widget displays recent posts from `content/post/`.
+# This widget displays recent posts from `content/blog/`.
 widget = "posts"
 active = false
 date = "2018-03-10T00:00:00"
 
-title = "Recent Posts"
+title = "Recent Blog Posts"
 subtitle = ""
 
 # Order that this section will appear in.

@@ -11,6 +11,7 @@ weight = 5
 [interests]
   interests = [
     "Health economics",
+    "Bayesian statistics",
     "Survival analysis and multistate models",
     "Epidemiology"
   ]
@@ -30,8 +31,8 @@ weight = 5
 
 # Biography
 
-I am a Statistician and Mathematical Modeller Research Fellow in the Department of Infectious Disease Epidemiology. I am also involved with the Statistics, Modelling and Economics Department at Public Health England.
+I am a Statistician and Mathematical Modeller Research Fellow in the Department of Infectious Disease Epidemiology, [Imperial College London](https://www.imperial.ac.uk/school-public-health/infectious-disease-epidemiology/themes/statistics-and-modelling-methodology/). I am also involved with the Statistics, Modelling and Economics Department at [Public Health England](https://www.gov.uk/government/organisations/public-health-england).
 
 I have a number of years experience working on a wide range of projects across government and academia in defence and health.
 
-I studied mathematics and statistics at the University of Newcastle-Upon-Tyne and obtained a PhD in applied probability from the University of Liverpool. After working for the Ministry of Defence for several years, applying novel Bayesian Inference ideas, I moved back into academia and the field of public health in 2010.
+I studied mathematics and statistics at the University of Newcastle-Upon-Tyne and obtained a PhD in applied probability from the University of Liverpool. After working for the [Ministry of Defence](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) for several years, applying novel Bayesian Inference ideas, I moved back into academia and the field of public health in 2010.

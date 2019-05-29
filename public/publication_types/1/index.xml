@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 on Dr Nathan Green</title>
+    <link>/publication_types/1/</link>
+    <description>Recent content in 1 on Dr Nathan Green</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; Nathan Green 2018</copyright>
+    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Quantifying the burden of hospital-acquired bloodstream infection in children in England, estimating excess length of hospital stay and mortality using a multistate analysis of linked routinely collected data</title>
+      <link>/publication/papers/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/papers/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

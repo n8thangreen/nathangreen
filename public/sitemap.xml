@@ -32,6 +32,15 @@
     
     <url>
     
+      <loc>/publication/scirep2019/</loc>
+      <lastmod>2019-07-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/blog/test/</loc>
       <lastmod>2019-05-27T13:18:56+01:00</lastmod>
     </url>
@@ -149,15 +158,6 @@
     
     <url>
     
-      <loc>/project/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
       <loc>/project/example-external-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
@@ -176,7 +176,25 @@
     
     <url>
     
-      <loc>/publication/02-12-2011-guardian/</loc>
+      <loc>/publication/paediatrics2014/</loc>
+      <lastmod>2013-07-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/jrssc2009/</loc>
+      <lastmod>2013-07-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/science_journalism/02-12-2011-guardian/</loc>
       <lastmod>2011-12-02T00:00:00+00:00</lastmod>
     </url>
     
@@ -185,7 +203,7 @@
     
     <url>
     
-      <loc>/publication/16-09-2011-guardian/</loc>
+      <loc>/science_journalism/16-09-2011-guardian/</loc>
       <lastmod>2011-09-16T00:00:00+00:00</lastmod>
     </url>
     
@@ -194,7 +212,7 @@
     
     <url>
     
-      <loc>/publication/18-08-2011-guardian/</loc>
+      <loc>/science_journalism/18-08-2011-guardian/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -203,7 +221,7 @@
     
     <url>
     
-      <loc>/publication/01-09-2011-guardian/</loc>
+      <loc>/science_journalism/01-09-2011-guardian/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -212,7 +230,7 @@
     
     <url>
     
-      <loc>/publication/08-2011-guardian---copy-11/</loc>
+      <loc>/science_journalism/08-2011-guardian---copy-11/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -221,7 +239,7 @@
     
     <url>
     
-      <loc>/publication/08-2011-guardian---copy-12/</loc>
+      <loc>/science_journalism/08-2011-guardian---copy-12/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -230,7 +248,7 @@
     
     <url>
     
-      <loc>/publication/08-2011-guardian---copy-13/</loc>
+      <loc>/science_journalism/08-2011-guardian---copy-13/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -239,7 +257,7 @@
     
     <url>
     
-      <loc>/publication/08-2011-guardian---copy-14/</loc>
+      <loc>/science_journalism/08-2011-guardian---copy-14/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -248,7 +266,7 @@
     
     <url>
     
-      <loc>/publication/08-2011-guardian---copy-15/</loc>
+      <loc>/science_journalism/08-2011-guardian---copy-15/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -257,7 +275,7 @@
     
     <url>
     
-      <loc>/publication/08-2011-guardian---copy-16/</loc>
+      <loc>/science_journalism/08-2011-guardian---copy-16/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -266,7 +284,7 @@
     
     <url>
     
-      <loc>/publication/08-2011-guardian---copy-2/</loc>
+      <loc>/science_journalism/08-2011-guardian---copy-2/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -275,7 +293,7 @@
     
     <url>
     
-      <loc>/publication/08-2011-guardian---copy-3/</loc>
+      <loc>/science_journalism/08-2011-guardian---copy-3/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -284,7 +302,7 @@
     
     <url>
     
-      <loc>/publication/12-09-2011-guardian/</loc>
+      <loc>/science_journalism/12-09-2011-guardian/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -293,7 +311,7 @@
     
     <url>
     
-      <loc>/publication/13-09-2011-guardian/</loc>
+      <loc>/science_journalism/13-09-2011-guardian/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -302,7 +320,7 @@
     
     <url>
     
-      <loc>/publication/14-09-2011-guardian/</loc>
+      <loc>/science_journalism/14-09-2011-guardian/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -311,8 +329,62 @@
     
     <url>
     
-      <loc>/publication/17-08-2011-guardian/</loc>
+      <loc>/science_journalism/17-08-2011-guardian/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/lasr2011/</loc>
+      <lastmod>2011-07-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/impact2011/</loc>
+      <lastmod>2011-07-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/phdthesis/</loc>
+      <lastmod>2005-07-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/mathbio2007/</loc>
+      <lastmod>2005-07-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/lancet2014/</loc>
+      <lastmod>1970-01-01T00:33:34+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/</loc>
+      <lastmod>2019-07-01T00:00:00+01:00</lastmod>
     </url>
     
   
@@ -330,7 +402,8 @@
     
     <url>
     
-      <loc>/categories/</loc>
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-07-01T00:00:00+01:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -339,8 +412,7 @@
     
     <url>
     
-      <loc>/tags/deep-learning/</loc>
-      <lastmod>2016-04-27T00:00:00+00:00</lastmod>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -389,17 +461,7 @@
     
     <url>
     
-      <loc>/publication/</loc>
-      <lastmod>2011-12-02T00:00:00+00:00</lastmod>
-      <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/publication/25-08-2011-guardian/</loc>
+      <loc>/science_journalism/25-08-2011-guardian/</loc>
     </url>
     
   

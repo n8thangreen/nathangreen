@@ -1,167 +1,86 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications on Dr Nathan Green</title>
+    <title>Dr Nathan Green</title>
     <link>/publication/</link>
-    <description>Recent content in Publications on Dr Nathan Green</description>
+    <description>Recent content on Dr Nathan Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
-    <lastBuildDate>Fri, 02 Dec 2011 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="/publication/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Learn to love the S word: statistics</title>
-      <link>/publication/02-12-2011-guardian/</link>
-      <pubDate>Fri, 02 Dec 2011 00:00:00 +0000</pubDate>
+      <title>Assessing local chlamydia screening performance by combining survey and administrative data to account for differences in local population characteristics</title>
+      <link>/publication/scirep2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
       
-      <guid>/publication/02-12-2011-guardian/</guid>
+      <guid>/publication/scirep2019/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Sports data and the recipe for success</title>
-      <link>/publication/16-09-2011-guardian/</link>
-      <pubDate>Fri, 16 Sep 2011 00:00:00 +0000</pubDate>
+      <title>Quantifying the burden of hospital-acquired bloodstream infection in children in England, estimating excess length of hospital stay and mortality using a multistate analysis of linked routinely collected data</title>
+      <link>/publication/paediatrics2014/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
       
-      <guid>/publication/16-09-2011-guardian/</guid>
+      <guid>/publication/paediatrics2014/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>A-level results send science and mathematics to the top of the class</title>
-      <link>/publication/18-08-2011-guardian/</link>
-      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
+      <title>Real-Time Sequential Inference of Static Parameters with Expensive Likelihood Calculations</title>
+      <link>/publication/jrssc2009/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
       
-      <guid>/publication/18-08-2011-guardian/</guid>
+      <guid>/publication/jrssc2009/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle</title>
-      <link>/publication/01-09-2011-guardian/</link>
-      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
+      <title>ABC for Coronary Heart Disease Modelling</title>
+      <link>/publication/lasr2011/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0100</pubDate>
       
-      <guid>/publication/01-09-2011-guardian/</guid>
+      <guid>/publication/lasr2011/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle</title>
-      <link>/publication/08-2011-guardian---copy-11/</link>
-      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
+      <title>IMPACT: A generic tool for modelling and simulating public health policy</title>
+      <link>/publication/impact2011/</link>
+      <pubDate>Fri, 01 Jul 2011 00:00:00 +0100</pubDate>
       
-      <guid>/publication/08-2011-guardian---copy-11/</guid>
+      <guid>/publication/impact2011/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle</title>
-      <link>/publication/08-2011-guardian---copy-12/</link>
-      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
+      <title>Optimal Intervention for an Epidemic Model under Uncertainty</title>
+      <link>/publication/phdthesis/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0100</pubDate>
       
-      <guid>/publication/08-2011-guardian---copy-12/</guid>
+      <guid>/publication/phdthesis/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle</title>
-      <link>/publication/08-2011-guardian---copy-13/</link>
-      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
+      <title>Optimal Intervention for an Epidemic Model under Uncertainty</title>
+      <link>/publication/mathbio2007/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0100</pubDate>
       
-      <guid>/publication/08-2011-guardian---copy-13/</guid>
+      <guid>/publication/mathbio2007/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle</title>
-      <link>/publication/08-2011-guardian---copy-14/</link>
-      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
+      <title>Point-of-care vs. Standard Practice for Chlamydia: A new approach to assessing the public health effect of rapid testing and treatment at local level</title>
+      <link>/publication/lancet2014/</link>
+      <pubDate>Thu, 01 Jan 1970 00:33:34 +0000</pubDate>
       
-      <guid>/publication/08-2011-guardian---copy-14/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle</title>
-      <link>/publication/08-2011-guardian---copy-15/</link>
-      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/08-2011-guardian---copy-15/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle</title>
-      <link>/publication/08-2011-guardian---copy-16/</link>
-      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/08-2011-guardian---copy-16/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle</title>
-      <link>/publication/08-2011-guardian---copy-2/</link>
-      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/08-2011-guardian---copy-2/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle</title>
-      <link>/publication/08-2011-guardian---copy-3/</link>
-      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/08-2011-guardian---copy-3/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle</title>
-      <link>/publication/12-09-2011-guardian/</link>
-      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/12-09-2011-guardian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle</title>
-      <link>/publication/13-09-2011-guardian/</link>
-      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/13-09-2011-guardian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle</title>
-      <link>/publication/14-09-2011-guardian/</link>
-      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/14-09-2011-guardian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle</title>
-      <link>/publication/17-08-2011-guardian/</link>
-      <pubDate>Wed, 17 Aug 2011 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/17-08-2011-guardian/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>So speed cameras can cause accidents? The maths just doesn&#39;t add up</title>
-      <link>/publication/25-08-2011-guardian/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/publication/25-08-2011-guardian/</guid>
+      <guid>/publication/lancet2014/</guid>
       <description></description>
     </item>
     

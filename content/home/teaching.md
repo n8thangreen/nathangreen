@@ -15,7 +15,7 @@ weight = 60
 
 +++
 
-I am course co-leader for SPH024: Advanced Regression module as part of the MSc in Epidemiology and Public Health at Imperial College London.
+I am module lead for SPH018: Introduction to Bayesian Statistics, part of the [MSc in Epidemiology and Public Health](https://www.imperial.ac.uk/study/pg/medicine/epidemiology/) at Imperial College London.
 
 I have tutored, supervised and lectured for the following courses at Imperial College London:
 
