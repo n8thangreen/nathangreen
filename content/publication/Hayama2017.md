@@ -1,9 +1,9 @@
 +++
-title = "Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle"
-date = "2011-08-17"
+title = "Latent tuberculosis infection screening of adult close contacts in london: a cost-utility analysis"
+date = "2017-08-17"
 
 # Authors. Comma separated list, e.g. `["Nathan Green"]`.
-authors = ["N Green"]
+authors = ["Hayama M, Green N, Seneviratne SL, O'Donoghue M, Drey N, Kon OM"]
 
 # Publication type.
 # Legend:
@@ -14,11 +14,11 @@ authors = ["N Green"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The Guardian newspaper*"
-publication_short = "In *The Guardian*"
+publication = "In *Winter meeting of the British Thoracic Society*"
+publication_short = "In *Winter meeting of the British Thoracic Society*"
 
 # Abstract and optional shortened version.
 #abstract = ""

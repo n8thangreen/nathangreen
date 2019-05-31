@@ -1,9 +1,9 @@
 +++
-title = "Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle"
-date = "2011-08-17"
+title = "Validation of new technologies for the diagnostic evaluation of active tuberculosis (VANTDET) "
+date = "2019-08-17"
 
 # Authors. Comma separated list, e.g. `["Nathan Green"]`.
-authors = ["N Green"]
+authors = ["Halliday A, Jain P, Hoang L, Parker R, Tolosa-Wright M, Masonou T, Green N, Boakye A, Takwoingi Y, Hamilton S"]
 
 # Publication type.
 # Legend:
@@ -14,11 +14,11 @@ authors = ["N Green"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The Guardian newspaper*"
-publication_short = "In *The Guardian*"
+publication = "In *Efficacy and Mechanism Evaluation*"
+publication_short = "In *Efficacy and Mechanism Evaluation*"
 
 # Abstract and optional shortened version.
 #abstract = ""

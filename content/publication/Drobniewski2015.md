@@ -1,9 +1,9 @@
 +++
-title = "Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle"
-date = "2011-08-17"
+title = "Systematic review, meta-analysis and economic modelling of molecular diagnostic tests for antibiotic resistance in tuberculosis, Health Technology Assessment"
+date = "2015-08-17"
 
 # Authors. Comma separated list, e.g. `["Nathan Green"]`.
-authors = ["N Green"]
+authors = ["Drobniewski F, Cooke M, Jordan J, Casali N, Mugwagwa T, Broda A, Townsend C, Sivaramakrishnan A, Green N, Jit M, Lipman M, Lord J, White PJ, Abubakar I"]
 
 # Publication type.
 # Legend:
@@ -14,11 +14,11 @@ authors = ["N Green"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The Guardian newspaper*"
-publication_short = "In *The Guardian*"
+publication = "In *Health Technology Assessment, Vol:19*"
+publication_short = "In *THealth Technology Assessment, Vol:19*"
 
 # Abstract and optional shortened version.
 #abstract = ""

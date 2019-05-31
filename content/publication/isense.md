@@ -1,9 +1,9 @@
 +++
-title = "Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle"
-date = "2011-08-17"
+title = "The value of rapid influenza testing in a pandemic, i-sense Exploratory Project"
+date = "2017-08-17"
 
 # Authors. Comma separated list, e.g. `["Nathan Green"]`.
-authors = ["N Green"]
+authors = ["Nathan Green, Peter J White"]
 
 # Publication type.
 # Legend:
@@ -14,11 +14,11 @@ authors = ["N Green"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["4"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The Guardian newspaper*"
-publication_short = "In *The Guardian*"
+publication = "In *i-sense EPSRC Annual Report 2016/17*"
+publication_short = "In *i-sense EPSRC Annual Report 2016/17*"
 
 # Abstract and optional shortened version.
 #abstract = ""

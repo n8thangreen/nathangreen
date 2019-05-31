@@ -1,9 +1,9 @@
 +++
-title = "Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle"
-date = "2011-08-17"
+title = "Web-tool to assess the cost-effectiveness of chlamydia point-of-care tests at the local level sexually transmitted infections"
+date = "2015-08-17"
 
 # Authors. Comma separated list, e.g. `["Nathan Green"]`.
-authors = ["N Green"]
+authors = ["Harding-Esch E", "Sherrard-Smith E", "Dangerfield C", "Choi YH", "Green N", "Jit M", "Marshall RD", "Mercer C", "Nardone A", "Howell-Jones R"]
 
 # Publication type.
 # Legend:
@@ -14,11 +14,11 @@ authors = ["N Green"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["0"]
+publication_types = ["1"]
 
 # Publication name and optional abbreviated version.
-publication = "In *The Guardian newspaper*"
-publication_short = "In *The Guardian*"
+publication = "In *BMJ publishing group. 91: A143-A143*"
+publication_short = "In *BMJ publishing group. 91: A143-A143*"
 
 # Abstract and optional shortened version.
 #abstract = ""
@@ -28,7 +28,7 @@ publication_short = "In *The Guardian*"
 #image_preview = ""
 
 # Is this a selected publication? (true/false)
-selected = true
+selected = false
 
 # Projects (optional).
 #   Associate this publication with one or more of your projects.

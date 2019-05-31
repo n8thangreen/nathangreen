@@ -1,6 +1,8 @@
 +++
-#title = "Publications"
-#date = 2017-01-01T00:00:00
+title = "Publications"
+date = 2017-01-01T00:00:00
+math = false
+highlight = false
 
 # List format.
 #   0 = Simple
@@ -8,7 +10,7 @@
 #   2 = APA
 #   3 = MLA
 #   4 = Stream
-list_format = 3
+list_format = 0
 
 # Optional featured image (relative to `static/img/` folder).
 #[header]

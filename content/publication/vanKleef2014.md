@@ -1,9 +1,8 @@
 +++
-title = "Pierre de Fermats Last Theorem celebrated in a cheeky Google doodle"
-date = "2011-08-17"
+title = "Excess length of stay and mortality due to Clostridium difficile infection: a multi-state modelling approach"
+date = "2014-08-17"
 
-# Authors. Comma separated list, e.g. `["Nathan Green"]`.
-authors = ["N Green"]
+authors = ["van Kleef E, Green N, Goldenberg SD, Robotham JV, Cookson B, Jit M, Edmunds WJ, Deeny SR"]
 
 # Publication type.
 # Legend:
@@ -16,9 +15,8 @@ authors = ["N Green"]
 # 6 = Book chapter
 publication_types = ["0"]
 
-# Publication name and optional abbreviated version.
-publication = "In *The Guardian newspaper*"
-publication_short = "In *The Guardian*"
+publication = "In *Journal of Hospital Infection*"
+publication_short = "In *TJournal of Hospital Infection*"
 
 # Abstract and optional shortened version.
 #abstract = ""

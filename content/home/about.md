@@ -5,12 +5,13 @@ active = true
 date = "2016-04-20T00:00:00"
 
 # Order that this section will appear in.
-weight = 5
+weight = 1
 
 # List your academic interests.
 [interests]
   interests = [
     "Health economics",
+    "R software",
     "Bayesian statistics",
     "Survival analysis and multistate models",
     "Epidemiology"
@@ -27,6 +28,14 @@ weight = 5
   institution = "University of Newcastle-Upon-Tyne"
   year = 2001
   
+[[education.courses]]
+  course = "Fellow"
+  institution = "Royal Statistical Society"
+  
+[[education.courses]]
+  course = "Associate Fellow"
+  institution = "Higher Education Academy"
+  
 +++
 
 # Biography
@@ -36,3 +45,5 @@ I am a Statistician and Mathematical Modeller Research Fellow in the Department 
 I have a number of years experience working on a wide range of projects across government and academia in defence and health.
 
 I studied mathematics and statistics at the University of Newcastle-Upon-Tyne and obtained a PhD in applied probability from the University of Liverpool. After working for the [Ministry of Defence](https://www.gov.uk/government/organisations/defence-science-and-technology-laboratory) for several years, applying novel Bayesian Inference ideas, I moved back into academia and the field of public health in 2010.
+
+**Disclaimer**: All views are my own and do not reflect that of my employer.

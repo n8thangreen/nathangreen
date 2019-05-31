@@ -7,20 +7,10 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
-    <lastBuildDate>Sun, 15 Oct 2017 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/home/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>fffff</title>
-      <link>/home/hero/</link>
-      <pubDate>Sun, 15 Oct 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/home/hero/</guid>
-      <description>The highly flexible website framework for Hugo with an extensible plugin mechanism. Create a beautifully simple site in under 10 minutes 🚀 Latest release  
-(function defer() { if (window.jQuery) { jQuery(document).ready(function(){ GetLatestReleaseInfo(); }); } else { setTimeout(function() { defer() }, 50); } })(); function GetLatestReleaseInfo() { $.getJSON(&#39;https://api.github.com/repos/gcushen/hugo-academic/tags&#39;).done(function (json) { let release = json[0]; // let downloadURL = release.zipball_url; $(&#39;#academic-release&#39;).text(&#39;Latest release &#39; + release.name); }); }  </description>
-    </item>
     
     <item>
       <title></title>
@@ -34,11 +24,20 @@ I studied mathematics and statistics at the University of Newcastle-Upon-Tyne an
     </item>
     
     <item>
-      <title>Recent Publications</title>
+      <title>Publications</title>
       <link>/home/publications/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Public Engagement</title>
+      <link>/home/public_engagement/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/public_engagement/</guid>
       <description></description>
     </item>
     
@@ -48,24 +47,6 @@ I studied mathematics and statistics at the University of Newcastle-Upon-Tyne an
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/talks/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science Communication</title>
-      <link>/home/science_communication/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/science_communication/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Science Journalism</title>
-      <link>/home/science_journalism/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/science_journalism/</guid>
       <description></description>
     </item>
     
@@ -84,6 +65,15 @@ I studied mathematics and statistics at the University of Newcastle-Upon-Tyne an
       <pubDate>Sat, 10 Mar 2018 00:00:00 +0000</pubDate>
       
       <guid>/home/posts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/home/r/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/r/</guid>
       <description></description>
     </item>
     

@@ -32,6 +32,15 @@
     
     <url>
     
+      <loc>/publication/halliday2019/</loc>
+      <lastmod>2019-08-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/scirep2019/</loc>
       <lastmod>2019-07-01T00:00:00+01:00</lastmod>
     </url>
@@ -86,6 +95,24 @@
     
     <url>
     
+      <loc>/publication/hayama2017/</loc>
+      <lastmod>2017-08-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/isense/</loc>
+      <lastmod>2017-08-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/blog/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
@@ -123,6 +150,15 @@
     <url>
     
       <loc>/science_communication/nerd_nite/</loc>
+      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -176,6 +212,42 @@
     
     <url>
     
+      <loc>/publication/dangerfield2015/</loc>
+      <lastmod>2015-08-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/drobniewski2015/</loc>
+      <lastmod>2015-08-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/hardingesch2015/</loc>
+      <lastmod>2015-08-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/vankleef2014/</loc>
+      <lastmod>2014-08-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/publication/paediatrics2014/</loc>
       <lastmod>2013-07-01T00:00:00+01:00</lastmod>
     </url>
@@ -212,6 +284,15 @@
     
     <url>
     
+      <loc>/science_journalism/25-08-2011-guardian/</loc>
+      <lastmod>2011-08-18T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
       <loc>/science_journalism/18-08-2011-guardian/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
@@ -222,78 +303,6 @@
     <url>
     
       <loc>/science_journalism/01-09-2011-guardian/</loc>
-      <lastmod>2011-08-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/science_journalism/08-2011-guardian---copy-11/</loc>
-      <lastmod>2011-08-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/science_journalism/08-2011-guardian---copy-12/</loc>
-      <lastmod>2011-08-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/science_journalism/08-2011-guardian---copy-13/</loc>
-      <lastmod>2011-08-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/science_journalism/08-2011-guardian---copy-14/</loc>
-      <lastmod>2011-08-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/science_journalism/08-2011-guardian---copy-15/</loc>
-      <lastmod>2011-08-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/science_journalism/08-2011-guardian---copy-16/</loc>
-      <lastmod>2011-08-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/science_journalism/08-2011-guardian---copy-2/</loc>
-      <lastmod>2011-08-17T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/science_journalism/08-2011-guardian---copy-3/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -383,8 +392,9 @@
     
     <url>
     
-      <loc>/publication/</loc>
-      <lastmod>2019-07-01T00:00:00+01:00</lastmod>
+      <loc>/publication_types/0/</loc>
+      <lastmod>2014-08-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
     </url>
     
   
@@ -392,8 +402,8 @@
     
     <url>
     
-      <loc>/publication_types/0/</loc>
-      <lastmod>2011-12-02T00:00:00+00:00</lastmod>
+      <loc>/publication_types/1/</loc>
+      <lastmod>2015-08-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -403,7 +413,17 @@
     <url>
     
       <loc>/publication_types/2/</loc>
-      <lastmod>2019-07-01T00:00:00+01:00</lastmod>
+      <lastmod>2019-08-17T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/4/</loc>
+      <lastmod>2017-08-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -432,7 +452,7 @@
     <url>
     
       <loc>/</loc>
-      <lastmod>2017-10-15T00:00:00+01:00</lastmod>
+      <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -452,16 +472,8 @@
     <url>
     
       <loc>/publication_types/</loc>
-      <lastmod>2011-12-02T00:00:00+00:00</lastmod>
+      <lastmod>2014-08-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>/science_journalism/25-08-2011-guardian/</loc>
     </url>
     
   

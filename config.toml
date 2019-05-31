@@ -102,7 +102,7 @@ defaultContentLanguageInSubdir = false
 
   # Date and time format (refer to Go's date format: http://fuckinggodateformat.com )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
-  date_format = "Jan 2, 2006"
+  date_format = "Mon, Jan 2, 2006"
   #   Examples: "3:04 pm" or "15:04"
   time_format = "3:04 pm"
 
@@ -169,8 +169,8 @@ defaultContentLanguageInSubdir = false
     'Uncategorized',  # 0
     'Conference paper',  # 1
     'Journal article',  # 2
-    'Manuscript',  # 3
-    'Report',  # 4
+    'Work in progress',  # 3
+    'Technical report',  # 4
     'Book',  # 5
     'Book section'  # 6
   ]
@@ -196,7 +196,7 @@ defaultContentLanguageInSubdir = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 3
+    publication_format = 0
 
   # Social/Academic Networking
   #
@@ -276,8 +276,8 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[menu.main]]
-  name = "Blog"
-  url = "#blog" #"#blog"
+  name = "Publications"
+  url = "#publications"
   weight = 2
 
 [[menu.main]]
@@ -291,18 +291,18 @@ defaultContentLanguageInSubdir = false
   weight = 4
 
 [[menu.main]]
-  name = "Contact"
-  url = "#contact"
+  name = "R"
+  url = "#r"
   weight = 5
-
-[[menu.main]]
-  name = "Science communication"
-  url = "#science_communication"
-  weight = 6
   
 [[menu.main]]
-  name = "Science journalism"
-  url = "#science_journalism"
+  name = "Public engagement"
+  url = "#public_engagement"
+  weight = 6
+
+[[menu.main]]
+  name = "Contact"
+  url = "#contact"
   weight = 7
 
 

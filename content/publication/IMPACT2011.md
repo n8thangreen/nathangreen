@@ -4,7 +4,7 @@ date = 2011-07-01T00:00:00
 draft = true
 
 # Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
-authors = ["J.D. Ainsworth, E. Carruthers, P. Couch, N. Green, M. O’Flaherty, M. Sperrin, R. Williams, Z. Asghar, S. Capewell, I.E. Buchan"]
+authors = ["J.D. Ainsworth", "E. Carruthers", "P. Couch", "N. Green", "M. O’Flaherty", "M. Sperrin", "R. Williams", "Z. Asghar", "S. Capewell", "I.E. Buchan"]
 
 # Publication type.
 # Legend:
@@ -22,7 +22,7 @@ publication = "In *Methods of Information in Medicine*"
 publication_short = "In *Methods of Information in Medicine*"
 
 # Abstract and optional shortened version.
-abstract = "We present a mobile visual clothing search system whereby a smart phone user can either choose a social networking photo or take a new photo of a person wearing clothing of ores where similar clothing items can be tried on."
+abstract = ""
 
 # Is this a selected publication? (true/false)
 selected = false
@@ -33,15 +33,15 @@ selected = false
 #   E.g. `projects = ["deep-learning"]` references 
 #   `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects = ["internal-project"]
+projects = []
 
 # Tags (optional).
 #   Set `tags = []` for no tags, or use the form `tags = ["A Tag", "Another Tag"]` for one or more tags.
 tags = []
 
 # Links (optional).
-url_pdf = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
-url_preprint = "http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf"
+url_pdf = ""
+url_preprint = ""
 url_code = "#"
 url_dataset = "#"
 url_project = ""
