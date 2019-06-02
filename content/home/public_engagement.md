@@ -42,3 +42,4 @@ filter_default = 0
 
 +++
 
+I do lots of different outreach activities, mainly to do with STEM. I was a [British Science Association Media Fellow](https://aperiodical.com/2012/01/2012-bsa-media-fellows-call-for-applications-2/) at the Guardian newspaper and have written for various publications. I also do standup comedy- usually with a science theme and organised events as part of my LOL-lab projects.

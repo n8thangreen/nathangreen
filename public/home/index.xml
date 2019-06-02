@@ -60,15 +60,6 @@ I studied mathematics and statistics at the University of Newcastle-Upon-Tyne an
     </item>
     
     <item>
-      <title>R</title>
-      <link>/home/r/</link>
-      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>/home/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Projects</title>
       <link>/home/projects/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
@@ -83,7 +74,16 @@ I studied mathematics and statistics at the University of Newcastle-Upon-Tyne an
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/home/public_engagement/</guid>
-      <description></description>
+      <description>I do lots of different outreach activities, mainly to do with STEM. I was a British Science Association Media Fellow at the Guardian newspaper and have written for various publications. I also do standup comedy- usually with a science theme and organised events as part of my LOL-lab projects.</description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>/home/r/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/home/r/</guid>
+      <description>I am the author of several health economics R packages, hosted on GitHub. I have established an initiative for developing and collecting related packages under the title Health Economics in R for Modelling and Evaluation Studies (HERMES).</description>
     </item>
     
     <item>
@@ -95,15 +95,6 @@ I studied mathematics and statistics at the University of Newcastle-Upon-Tyne an
       <description>I am module lead for SPH018: Introduction to Bayesian Statistics, part of the MSc in Epidemiology and Public Health at Imperial College London.
 I have tutored, supervised and lectured for the following courses at Imperial College London:
  4th year Medicine: Computational Medicine BSc in Epidemiology BSc Life Sciences Principles and Methods of Epidemiology Principles of Global Epidemiology  </description>
-    </item>
-    
-    <item>
-      <title>Tags</title>
-      <link>/home/tags/</link>
-      <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
-      
-      <guid>/home/tags/</guid>
-      <description></description>
     </item>
     
     <item>

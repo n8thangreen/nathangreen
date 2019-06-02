@@ -3,10 +3,10 @@
 date = "2016-04-27"
 
 # Project title.
-title = "External Project"
+title = "HPRU in Repiratory Medicine"
 
 # Project summary to display on homepage.
-summary = "An example of linking directly to an external project website using `external_link`."
+summary = ""
 
 # Optional image to display on homepage (relative to `static/img/` folder).
 #image_preview = "boards.jpg"

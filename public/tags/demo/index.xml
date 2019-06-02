@@ -13,11 +13,20 @@
     
     
     <item>
-      <title>External Project</title>
-      <link>/project/example-external-project/</link>
+      <title>CEdecisiontree package</title>
+      <link>/r/cedecisiontree/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/example-external-project/</guid>
+      <guid>/r/cedecisiontree/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CLARHC</title>
+      <link>/project/clarhc/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/clarhc/</guid>
       <description></description>
     </item>
     
@@ -31,11 +40,47 @@
     </item>
     
     <item>
+      <title>HPRU in Repiratory Medicine</title>
+      <link>/project/hprurespiratory/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/hprurespiratory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>LOL-lab</title>
       <link>/public_engagement/lollab_project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
       <guid>/public_engagement/lollab_project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>QALY package</title>
+      <link>/r/qaly/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/r/qaly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ceplot package</title>
+      <link>/r/ceplot/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/r/ceplot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>i-sense</title>
+      <link>/project/isense/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/project/isense/</guid>
       <description></description>
     </item>
     
