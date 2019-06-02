@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Immunisation policies on Dr Nathan Green</title>
+    <link>/tags/immunisation-policies/</link>
+    <description>Recent content in Immunisation policies on Dr Nathan Green</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; Nathan Green 2018</copyright>
+    <lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/immunisation-policies/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Optimal intervention for an epidemic model under parameter uncertainty</title>
+      <link>/publication/clancy-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/clancy-2007/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

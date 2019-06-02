@@ -7,17 +7,26 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
-    <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Mon, 17 Aug 2015 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Quantifying the burden of hospital-acquired bloodstream infection in children in England, estimating excess length of hospital stay and mortality using a multistate analysis of linked routinely collected data</title>
-      <link>/publication/papers/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0100</pubDate>
+      <title>Impact and cost-effectiveness of point-of-care testing for chlamydia: accounting for geographic variation in infection burden and testing rates, health service configuration, and implementation strategy sexually transmitted infections</title>
+      <link>/publication/dangerfield2015/</link>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>/publication/papers/</guid>
+      <guid>/publication/dangerfield2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web-tool to assess the cost-effectiveness of chlamydia point-of-care tests at the local level sexually transmitted infections</title>
+      <link>/publication/hardingesch2015/</link>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/hardingesch2015/</guid>
       <description></description>
     </item>
     

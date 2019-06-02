@@ -21,5 +21,23 @@
       <description></description>
     </item>
     
+    <item>
+      <title>Guardian</title>
+      <link>/public_engagement/guardian-project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/public_engagement/guardian-project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LOL-lab</title>
+      <link>/public_engagement/lollab_project/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>/public_engagement/lollab_project/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -7,10 +7,19 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
-    <lastBuildDate>Mon, 01 Jul 2019 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Validation of new technologies for the diagnostic evaluation of active tuberculosis (VANTDET) </title>
+      <link>/publication/halliday2019/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/halliday2019/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Assessing local chlamydia screening performance by combining survey and administrative data to account for differences in local population characteristics</title>
@@ -18,6 +27,33 @@
       <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
       
       <guid>/publication/scirep2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Systematic review, meta-analysis and economic modelling of molecular diagnostic tests for antibiotic resistance in tuberculosis, Health Technology Assessment</title>
+      <link>/publication/drobniewski2015/</link>
+      <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/drobniewski2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quantifying the Burden of Hospital-Acquired Bloodstream Infection in Children in England by Estimating Excess Length of Hospital Stay and Mortality Using a Multistate Analysis of Linked, Routinely Collected Data</title>
+      <link>/publication/green-2014/</link>
+      <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/green-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Point-of-care testing versus standard practice for chlamydia: a new approach to assessing the public health effect of rapid testing and treatment at local level</title>
+      <link>/publication/lowndes-2014/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/lowndes-2014/</guid>
       <description></description>
     </item>
     
@@ -54,6 +90,42 @@
       <pubDate>Fri, 01 Jul 2011 00:00:00 +0100</pubDate>
       
       <guid>/publication/impact2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>IMPACT: A generic tool for modelling and simulating public health policy</title>
+      <link>/publication/ainsworth-2011/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/ainsworth-2011/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ABC for Coronary Heart Disease Policy Modelling</title>
+      <link>/publication/green-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/green-2010/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Realtime Sequential Inference of Static Parameters with Expensive Likelihoo...: University of Liverpool Library</title>
+      <link>/publication/robins-2009/</link>
+      <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/robins-2009/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal intervention for an epidemic model under parameter uncertainty</title>
+      <link>/publication/clancy-2007/</link>
+      <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/clancy-2007/</guid>
       <description></description>
     </item>
     
