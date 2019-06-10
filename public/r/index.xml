@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rs on Dr Nathan Green</title>
-    <link>/r/</link>
+    <link>http://nathangreen.netlify.com/r/</link>
     <description>Recent content in Rs on Dr Nathan Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/r/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nathangreen.netlify.com/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CEdecisiontree package</title>
-      <link>/r/cedecisiontree/</link>
+      <link>http://nathangreen.netlify.com/r/cedecisiontree/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/r/cedecisiontree/</guid>
+      <guid>http://nathangreen.netlify.com/r/cedecisiontree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QALY package</title>
-      <link>/r/qaly/</link>
+      <link>http://nathangreen.netlify.com/r/qaly/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/r/qaly/</guid>
+      <guid>http://nathangreen.netlify.com/r/qaly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ceplot package</title>
-      <link>/r/ceplot/</link>
+      <link>http://nathangreen.netlify.com/r/ceplot/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/r/ceplot/</guid>
+      <guid>http://nathangreen.netlify.com/r/ceplot/</guid>
       <description></description>
     </item>
     

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dynamic programming on Dr Nathan Green</title>
-    <link>/tags/dynamic-programming/</link>
+    <link>http://nathangreen.netlify.com/tags/dynamic-programming/</link>
     <description>Recent content in Dynamic programming on Dr Nathan Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
     <lastBuildDate>Mon, 01 Jan 2007 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/dynamic-programming/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nathangreen.netlify.com/tags/dynamic-programming/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Optimal intervention for an epidemic model under parameter uncertainty</title>
-      <link>/publication/clancy-2007/</link>
+      <link>http://nathangreen.netlify.com/publication/clancy-2007/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>/publication/clancy-2007/</guid>
+      <guid>http://nathangreen.netlify.com/publication/clancy-2007/</guid>
       <description></description>
     </item>
     

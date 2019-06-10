@@ -36,7 +36,7 @@ selected = true
 #projects = ["causal"]
 
 # Links (optional).
-#url_pdf = "https://www.theguardian.com/science/blog/2011/aug/17/pierre-de-fermat-theorem-google-doodle/"
+url_pdf = "https://www.researchgate.net/publication/305226034_P0913_Impact_and_cost-effectiveness_of_point-of-care_testing_for_chlamydia_accounting_for_geographic_variation_in_infection_burden_and_testing_rates_health_service_configuration_and_implementation_str"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""

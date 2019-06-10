@@ -16,7 +16,7 @@ summary = ""
 tags = ["demo"]
 
 # Optional external URL for project (replaces project detail page).
-external_link = "http://example.org"
+external_link = "https://www.nihr.ac.uk/about-us/how-we-are-managed/our-structure/research/health-protection-research-units.htm"
 
 # Does the project detail page use math formatting?
 math = false

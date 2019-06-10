@@ -9,5 +9,6 @@ featured: false
 publication: "*Methods of Information in Medicine*"
 tags: ["Computer simulation", "Decision support", "Discrete event simulation", "Policy modelling", "Public health"]
 doi: "10.3414/ME11-02-0006"
+url_pdf: "https://www.ncbi.nlm.nih.gov/pubmed/21915434"
 ---
 

@@ -2,85 +2,85 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo on Dr Nathan Green</title>
-    <link>/tags/demo/</link>
+    <link>http://nathangreen.netlify.com/tags/demo/</link>
     <description>Recent content in Demo on Dr Nathan Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/demo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nathangreen.netlify.com/tags/demo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CEdecisiontree package</title>
-      <link>/r/cedecisiontree/</link>
+      <link>http://nathangreen.netlify.com/r/cedecisiontree/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/r/cedecisiontree/</guid>
+      <guid>http://nathangreen.netlify.com/r/cedecisiontree/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CLARHC</title>
-      <link>/project/clarhc/</link>
+      <link>http://nathangreen.netlify.com/project/clarhc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/clarhc/</guid>
+      <guid>http://nathangreen.netlify.com/project/clarhc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Guardian</title>
-      <link>/public_engagement/guardian-project/</link>
+      <link>http://nathangreen.netlify.com/public_engagement/guardian-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/public_engagement/guardian-project/</guid>
+      <guid>http://nathangreen.netlify.com/public_engagement/guardian-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HPRU in Repiratory Medicine</title>
-      <link>/project/hprurespiratory/</link>
+      <link>http://nathangreen.netlify.com/project/hprurespiratory/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/hprurespiratory/</guid>
+      <guid>http://nathangreen.netlify.com/project/hprurespiratory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LOL-lab</title>
-      <link>/public_engagement/lollab_project/</link>
+      <link>http://nathangreen.netlify.com/public_engagement/lollab_project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/public_engagement/lollab_project/</guid>
+      <guid>http://nathangreen.netlify.com/public_engagement/lollab_project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>QALY package</title>
-      <link>/r/qaly/</link>
+      <link>http://nathangreen.netlify.com/r/qaly/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/r/qaly/</guid>
+      <guid>http://nathangreen.netlify.com/r/qaly/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ceplot package</title>
-      <link>/r/ceplot/</link>
+      <link>http://nathangreen.netlify.com/r/ceplot/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/r/ceplot/</guid>
+      <guid>http://nathangreen.netlify.com/r/ceplot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>i-sense</title>
-      <link>/project/isense/</link>
+      <link>http://nathangreen.netlify.com/project/isense/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/isense/</guid>
+      <guid>http://nathangreen.netlify.com/project/isense/</guid>
       <description></description>
     </item>
     

@@ -2,40 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects on Dr Nathan Green</title>
-    <link>/project/</link>
+    <link>http://nathangreen.netlify.com/project/</link>
     <description>Recent content in Projects on Dr Nathan Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://nathangreen.netlify.com/project/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>CLARHC</title>
-      <link>/project/clarhc/</link>
+      <link>http://nathangreen.netlify.com/project/clarhc/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/clarhc/</guid>
+      <guid>http://nathangreen.netlify.com/project/clarhc/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HPRU in Repiratory Medicine</title>
-      <link>/project/hprurespiratory/</link>
+      <link>http://nathangreen.netlify.com/project/hprurespiratory/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/hprurespiratory/</guid>
+      <guid>http://nathangreen.netlify.com/project/hprurespiratory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>i-sense</title>
-      <link>/project/isense/</link>
+      <link>http://nathangreen.netlify.com/project/isense/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/project/isense/</guid>
+      <guid>http://nathangreen.netlify.com/project/isense/</guid>
       <description></description>
     </item>
     

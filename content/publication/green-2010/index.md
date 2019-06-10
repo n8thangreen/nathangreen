@@ -7,5 +7,6 @@ publication_types: ["2"]
 abstract: ""
 featured: false
 publication: "*LASR*"
+url_pdf: "https://www.researchgate.net/publication/261703079_ABC_for_coronary_heart_disease_policy_modelling"
 ---
 

@@ -34,7 +34,7 @@ selected = true
 #projects = ["causal"]
 
 # Links (optional).
-#url_pdf = "https://www.theguardian.com/science/blog/2011/aug/17/pierre-de-fermat-theorem-google-doodle/"
+url_pdf = "https://www.ncbi.nlm.nih.gov/pubmed/25441017"
 #url_preprint = ""
 #url_code = ""
 #url_dataset = ""
