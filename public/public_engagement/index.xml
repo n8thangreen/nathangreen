@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Public_engagements on Dr Nathan Green</title>
-    <link>http://nathangreen.netlify.com/public_engagement/</link>
+    <link>/public_engagement/</link>
     <description>Recent content in Public_engagements on Dr Nathan Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
     <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://nathangreen.netlify.com/public_engagement/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/public_engagement/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Guardian</title>
-      <link>http://nathangreen.netlify.com/public_engagement/guardian-project/</link>
+      <link>/public_engagement/guardian-project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/public_engagement/guardian-project/</guid>
+      <guid>/public_engagement/guardian-project/</guid>
       <description></description>
     </item>
     
     <item>
       <title>LOL-lab</title>
-      <link>http://nathangreen.netlify.com/public_engagement/lollab_project/</link>
+      <link>/public_engagement/lollab_project/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/public_engagement/lollab_project/</guid>
+      <guid>/public_engagement/lollab_project/</guid>
       <description></description>
     </item>
     

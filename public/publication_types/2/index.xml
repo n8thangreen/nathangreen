@@ -2,76 +2,103 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>2 on Dr Nathan Green</title>
-    <link>http://nathangreen.netlify.com/publication_types/2/</link>
+    <link>/publication_types/2/</link>
     <description>Recent content in 2 on Dr Nathan Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
-    <lastBuildDate>Mon, 17 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://nathangreen.netlify.com/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Validation of new technologies for the diagnostic evaluation of active tuberculosis (VANTDET) </title>
+      <link>/publication/halliday2019/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/halliday2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing local chlamydia screening performance by combining survey and administrative data to account for differences in local population characteristics</title>
+      <link>/publication/scirep2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/scirep2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Systematic review, meta-analysis and economic modelling of molecular diagnostic tests for antibiotic resistance in tuberculosis, Health Technology Assessment</title>
-      <link>http://nathangreen.netlify.com/publication/drobniewski2015/</link>
+      <link>/publication/drobniewski2015/</link>
       <pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/publication/drobniewski2015/</guid>
+      <guid>/publication/drobniewski2015/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Quantifying the Burden of Hospital-Acquired Bloodstream Infection in Children in England by Estimating Excess Length of Hospital Stay and Mortality Using a Multistate Analysis of Linked, Routinely Collected Data</title>
-      <link>http://nathangreen.netlify.com/publication/green-2014/</link>
+      <link>/publication/green-2014/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/publication/green-2014/</guid>
+      <guid>/publication/green-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Point-of-care testing versus standard practice for chlamydia: a new approach to assessing the public health effect of rapid testing and treatment at local level</title>
-      <link>http://nathangreen.netlify.com/publication/lowndes-2014/</link>
+      <link>/publication/lowndes-2014/</link>
       <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/publication/lowndes-2014/</guid>
+      <guid>/publication/lowndes-2014/</guid>
       <description></description>
     </item>
     
     <item>
       <title>IMPACT: A generic tool for modelling and simulating public health policy</title>
-      <link>http://nathangreen.netlify.com/publication/ainsworth-2011/</link>
+      <link>/publication/ainsworth-2011/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/publication/ainsworth-2011/</guid>
+      <guid>/publication/ainsworth-2011/</guid>
       <description></description>
     </item>
     
     <item>
       <title>ABC for Coronary Heart Disease Policy Modelling</title>
-      <link>http://nathangreen.netlify.com/publication/green-2010/</link>
+      <link>/publication/green-2010/</link>
       <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/publication/green-2010/</guid>
+      <guid>/publication/green-2010/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Realtime Sequential Inference of Static Parameters with Expensive Likelihoods</title>
-      <link>http://nathangreen.netlify.com/publication/robins-2009/</link>
+      <link>/publication/robins-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/publication/robins-2009/</guid>
+      <guid>/publication/robins-2009/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Optimal intervention for an epidemic model under parameter uncertainty</title>
-      <link>http://nathangreen.netlify.com/publication/clancy-2007/</link>
+      <link>/publication/clancy-2007/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/publication/clancy-2007/</guid>
+      <guid>/publication/clancy-2007/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimal Intervention for an Epidemic Model under Uncertainty</title>
+      <link>/publication/phdthesis/</link>
+      <pubDate>Fri, 01 Jul 2005 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/phdthesis/</guid>
       <description></description>
     </item>
     

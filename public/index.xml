@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dr Nathan Green on Dr Nathan Green</title>
-    <link>http://nathangreen.netlify.com/</link>
+    <link>/</link>
     <description>Recent content in Dr Nathan Green on Dr Nathan Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
@@ -12,19 +12,19 @@
     
     <item>
       <title>Blog</title>
-      <link>http://nathangreen.netlify.com/blog/blog/</link>
+      <link>/blog/blog/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://nathangreen.netlify.com/blog/blog/</guid>
+      <guid>/blog/blog/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Science journalism</title>
-      <link>http://nathangreen.netlify.com/science_journalism/science_journalism/</link>
+      <link>/science_journalism/science_journalism/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://nathangreen.netlify.com/science_journalism/science_journalism/</guid>
+      <guid>/science_journalism/science_journalism/</guid>
       <description>
 
 &lt;!--
@@ -38,123 +38,122 @@ A complete publications list is [here](../misc/publicationslist).
     
     <item>
       <title>Tags</title>
-      <link>http://nathangreen.netlify.com/blog/tags/</link>
+      <link>/blog/tags/</link>
       <pubDate>Wed, 20 Sep 2017 00:00:00 +0100</pubDate>
       
-      <guid>http://nathangreen.netlify.com/blog/tags/</guid>
+      <guid>/blog/tags/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing local chlamydia screening performance by combining survey and administrative data to account for differences in local population characteristics event</title>
+      <link>/talk/rssconference2019/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/rssconference2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Validation of new technologies for the diagnostic evaluation of active tuberculosis (VANTDET) </title>
+      <link>/publication/halliday2019/</link>
+      <pubDate>Sat, 17 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/publication/halliday2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Easy peasy decision trees in R for the Excel user</title>
-      <link>http://nathangreen.netlify.com/talk/talk_easypeasyjuly2019/</link>
+      <link>/talk/talk_easypeasyjuly2019/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/talk/talk_easypeasyjuly2019/</guid>
+      <guid>/talk/talk_easypeasyjuly2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Assessing local chlamydia screening performance by combining survey and administrative data to account for differences in local population characteristics</title>
+      <link>/publication/scirep2019/</link>
+      <pubDate>Mon, 01 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>/publication/scirep2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Test</title>
-      <link>http://nathangreen.netlify.com/blog/test/</link>
+      <link>/blog/test/</link>
       <pubDate>Mon, 27 May 2019 13:18:56 +0100</pubDate>
       
-      <guid>http://nathangreen.netlify.com/blog/test/</guid>
+      <guid>/blog/test/</guid>
       <description></description>
     </item>
     
     <item>
       <title>dfdfd</title>
-      <link>http://nathangreen.netlify.com/blog/dfdfd/</link>
+      <link>/blog/dfdfd/</link>
       <pubDate>Mon, 27 May 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/blog/dfdfd/</guid>
+      <guid>/blog/dfdfd/</guid>
       <description></description>
     </item>
     
     <item>
       <title>temp</title>
-      <link>http://nathangreen.netlify.com/post/temp/</link>
+      <link>/post/temp/</link>
       <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/post/temp/</guid>
+      <guid>/post/temp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>testr2</title>
-      <link>http://nathangreen.netlify.com/post/testr2/</link>
+      <link>/post/testr2/</link>
       <pubDate>Sat, 14 Jul 2018 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/post/testr2/</guid>
+      <guid>/post/testr2/</guid>
       <description>&lt;p&gt;more testing nhufdashfoidjhfikajflkdjf&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Latent tuberculosis infection screening of adult close contacts in london: a cost-utility analysis</title>
-      <link>http://nathangreen.netlify.com/publication/hayama2017/</link>
+      <link>/publication/hayama2017/</link>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/publication/hayama2017/</guid>
+      <guid>/publication/hayama2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The value of rapid influenza testing in a pandemic, i-sense Exploratory Project</title>
-      <link>http://nathangreen.netlify.com/publication/isense/</link>
+      <link>/publication/isense/</link>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/publication/isense/</guid>
+      <guid>/publication/isense/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>http://nathangreen.netlify.com/talk/example-talk/</link>
+      <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/talk/example-talk/</guid>
+      <guid>/talk/example-talk/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Probably certain decision-making</title>
-      <link>http://nathangreen.netlify.com/science_communication/nerd_nite/</link>
+      <link>/science_communication/nerd_nite/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/science_communication/nerd_nite/</guid>
+      <guid>/science_communication/nerd_nite/</guid>
       <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
-    </item>
-    
-    <item>
-      <title>Ronald Fisher vs Karl Pearson</title>
-      <link>http://nathangreen.netlify.com/science_communication/science_showoff/</link>
-      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
-      
-      <guid>http://nathangreen.netlify.com/science_communication/science_showoff/</guid>
-      <description>&lt;p&gt;Embed your slides or video here using &lt;a href=&#34;https://sourcethemes.com/academic/post/writing-markdown-latex/&#34; target=&#34;_blank&#34;&gt;shortcodes&lt;/a&gt;. Further details can easily be added using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>CEdecisiontree package</title>
-      <link>http://nathangreen.netlify.com/r/cedecisiontree/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://nathangreen.netlify.com/r/cedecisiontree/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CLARHC</title>
-      <link>http://nathangreen.netlify.com/project/clarhc/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      
-      <guid>http://nathangreen.netlify.com/project/clarhc/</guid>
-      <description></description>
     </item>
     
   </channel>

@@ -2,31 +2,40 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Recent &amp; Upcoming Talks on Dr Nathan Green</title>
-    <link>http://nathangreen.netlify.com/talk/</link>
+    <link>/talk/</link>
     <description>Recent content in Recent &amp; Upcoming Talks on Dr Nathan Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
     <lastBuildDate>Sun, 01 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://nathangreen.netlify.com/talk/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/talk/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Assessing local chlamydia screening performance by combining survey and administrative data to account for differences in local population characteristics event</title>
+      <link>/talk/rssconference2019/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/rssconference2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Easy peasy decision trees in R for the Excel user</title>
-      <link>http://nathangreen.netlify.com/talk/talk_easypeasyjuly2019/</link>
+      <link>/talk/talk_easypeasyjuly2019/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/talk/talk_easypeasyjuly2019/</guid>
+      <guid>/talk/talk_easypeasyjuly2019/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Talk</title>
-      <link>http://nathangreen.netlify.com/talk/example-talk/</link>
+      <link>/talk/example-talk/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/talk/example-talk/</guid>
+      <guid>/talk/example-talk/</guid>
       <description>Embed your slides or video here using shortcodes. Further details can easily be added using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

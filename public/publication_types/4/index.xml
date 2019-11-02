@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>4 on Dr Nathan Green</title>
-    <link>http://nathangreen.netlify.com/publication_types/4/</link>
+    <link>/publication_types/4/</link>
     <description>Recent content in 4 on Dr Nathan Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
     <lastBuildDate>Thu, 17 Aug 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://nathangreen.netlify.com/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/publication_types/4/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Latent tuberculosis infection screening of adult close contacts in london: a cost-utility analysis</title>
-      <link>http://nathangreen.netlify.com/publication/hayama2017/</link>
+      <link>/publication/hayama2017/</link>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/publication/hayama2017/</guid>
+      <guid>/publication/hayama2017/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The value of rapid influenza testing in a pandemic, i-sense Exploratory Project</title>
-      <link>http://nathangreen.netlify.com/publication/isense/</link>
+      <link>/publication/isense/</link>
       <pubDate>Thu, 17 Aug 2017 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/publication/isense/</guid>
+      <guid>/publication/isense/</guid>
       <description></description>
     </item>
     

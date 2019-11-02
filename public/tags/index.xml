@@ -2,310 +2,328 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Dr Nathan Green</title>
-    <link>http://nathangreen.netlify.com/tags/</link>
+    <link>/tags/</link>
     <description>Recent content in Tags on Dr Nathan Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0100</lastBuildDate>
     
-	<atom:link href="http://nathangreen.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Academic</title>
-      <link>http://nathangreen.netlify.com/tags/academic/</link>
+      <link>/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0100</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/academic/</guid>
+      <guid>/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Acceptance</title>
-      <link>http://nathangreen.netlify.com/tags/acceptance/</link>
+      <link>/tags/acceptance/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/acceptance/</guid>
+      <guid>/tags/acceptance/</guid>
       <description></description>
     </item>
     
     <item>
       <title>And healthcare</title>
-      <link>http://nathangreen.netlify.com/tags/and-healthcare/</link>
+      <link>/tags/and-healthcare/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/and-healthcare/</guid>
+      <guid>/tags/and-healthcare/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ated with substantial morbidity</title>
-      <link>http://nathangreen.netlify.com/tags/ated-with-substantial-morbidity/</link>
+      <link>/tags/ated-with-substantial-morbidity/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/ated-with-substantial-morbidity/</guid>
+      <guid>/tags/ated-with-substantial-morbidity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian decision theory</title>
-      <link>http://nathangreen.netlify.com/tags/bayesian-decision-theory/</link>
+      <link>/tags/bayesian-decision-theory/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/bayesian-decision-theory/</guid>
+      <guid>/tags/bayesian-decision-theory/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bayesian decision theory</title>
-      <link>http://nathangreen.netlify.com/tags/bayesian-decision-theory/</link>
+      <link>/tags/bayesian-decision-theory/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/bayesian-decision-theory/</guid>
+      <guid>/tags/bayesian-decision-theory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chlamydia</title>
+      <link>/tags/chlamydia/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/chlamydia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Computer simulation</title>
-      <link>http://nathangreen.netlify.com/tags/computer-simulation/</link>
+      <link>/tags/computer-simulation/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/computer-simulation/</guid>
+      <guid>/tags/computer-simulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Decision support</title>
-      <link>http://nathangreen.netlify.com/tags/decision-support/</link>
+      <link>/tags/decision-support/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/decision-support/</guid>
+      <guid>/tags/decision-support/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Demo</title>
-      <link>http://nathangreen.netlify.com/tags/demo/</link>
+      <link>/tags/demo/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/demo/</guid>
+      <guid>/tags/demo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Differential evolution markov chain</title>
-      <link>http://nathangreen.netlify.com/tags/differential-evolution-markov-chain/</link>
+      <link>/tags/differential-evolution-markov-chain/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/differential-evolution-markov-chain/</guid>
+      <guid>/tags/differential-evolution-markov-chain/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Discrete event simulation</title>
-      <link>http://nathangreen.netlify.com/tags/discrete-event-simulation/</link>
+      <link>/tags/discrete-event-simulation/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/discrete-event-simulation/</guid>
+      <guid>/tags/discrete-event-simulation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic programming</title>
-      <link>http://nathangreen.netlify.com/tags/dynamic-programming/</link>
+      <link>/tags/dynamic-programming/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/dynamic-programming/</guid>
+      <guid>/tags/dynamic-programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dynamic programming</title>
-      <link>http://nathangreen.netlify.com/tags/dynamic-programming/</link>
+      <link>/tags/dynamic-programming/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/dynamic-programming/</guid>
+      <guid>/tags/dynamic-programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>General stochastic epidemic</title>
-      <link>http://nathangreen.netlify.com/tags/general-stochastic-epidemic/</link>
+      <link>/tags/general-stochastic-epidemic/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/general-stochastic-epidemic/</guid>
+      <guid>/tags/general-stochastic-epidemic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>General stochastic epidemic</title>
-      <link>http://nathangreen.netlify.com/tags/general-stochastic-epidemic/</link>
+      <link>/tags/general-stochastic-epidemic/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/general-stochastic-epidemic/</guid>
+      <guid>/tags/general-stochastic-epidemic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>HTA</title>
-      <link>http://nathangreen.netlify.com/tags/hta/</link>
+      <link>/tags/hta/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/hta/</guid>
+      <guid>/tags/hta/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ha-bsi</title>
-      <link>http://nathangreen.netlify.com/tags/ha-bsi/</link>
+      <link>/tags/ha-bsi/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/ha-bsi/</guid>
+      <guid>/tags/ha-bsi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Health economics</title>
-      <link>http://nathangreen.netlify.com/tags/health-economics/</link>
+      <link>/tags/health-economics/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/health-economics/</guid>
+      <guid>/tags/health-economics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hospital-acquired bloodstream infection</title>
-      <link>http://nathangreen.netlify.com/tags/hospital-acquired-bloodstream-infection/</link>
+      <link>/tags/hospital-acquired-bloodstream-infection/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/hospital-acquired-bloodstream-infection/</guid>
+      <guid>/tags/hospital-acquired-bloodstream-infection/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunisation policies</title>
-      <link>http://nathangreen.netlify.com/tags/immunisation-policies/</link>
+      <link>/tags/immunisation-policies/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/immunisation-policies/</guid>
+      <guid>/tags/immunisation-policies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Immunisation policies</title>
-      <link>http://nathangreen.netlify.com/tags/immunisation-policies/</link>
+      <link>/tags/immunisation-policies/</link>
       <pubDate>Mon, 01 Jan 2007 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/immunisation-policies/</guid>
+      <guid>/tags/immunisation-policies/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Is associ-</title>
-      <link>http://nathangreen.netlify.com/tags/is-associ-/</link>
+      <link>/tags/is-associ-/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/is-associ-/</guid>
+      <guid>/tags/is-associ-/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Length of stay</title>
-      <link>http://nathangreen.netlify.com/tags/length-of-stay/</link>
+      <link>/tags/length-of-stay/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/length-of-stay/</guid>
+      <guid>/tags/length-of-stay/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Likelihood calculations</title>
-      <link>http://nathangreen.netlify.com/tags/likelihood-calculations/</link>
+      <link>/tags/likelihood-calculations/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/likelihood-calculations/</guid>
+      <guid>/tags/likelihood-calculations/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Metropolis</title>
-      <link>http://nathangreen.netlify.com/tags/metropolis/</link>
+      <link>/tags/metropolis/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/metropolis/</guid>
+      <guid>/tags/metropolis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mortality</title>
-      <link>http://nathangreen.netlify.com/tags/mortality/</link>
+      <link>/tags/mortality/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/mortality/</guid>
+      <guid>/tags/mortality/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Multistate model</title>
-      <link>http://nathangreen.netlify.com/tags/multistate-model/</link>
+      <link>/tags/multistate-model/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/multistate-model/</guid>
+      <guid>/tags/multistate-model/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pediatric</title>
-      <link>http://nathangreen.netlify.com/tags/pediatric/</link>
+      <link>/tags/pediatric/</link>
       <pubDate>Tue, 01 Jul 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/pediatric/</guid>
+      <guid>/tags/pediatric/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Policy modelling</title>
-      <link>http://nathangreen.netlify.com/tags/policy-modelling/</link>
+      <link>/tags/policy-modelling/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/policy-modelling/</guid>
+      <guid>/tags/policy-modelling/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Public health</title>
-      <link>http://nathangreen.netlify.com/tags/public-health/</link>
+      <link>/tags/public-health/</link>
       <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/public-health/</guid>
+      <guid>/tags/public-health/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>http://nathangreen.netlify.com/tags/r/</link>
+      <link>/tags/r/</link>
       <pubDate>Tue, 09 Jul 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/r/</guid>
+      <guid>/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Realtime computation</title>
-      <link>http://nathangreen.netlify.com/tags/realtime-computation/</link>
+      <link>/tags/realtime-computation/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/realtime-computation/</guid>
+      <guid>/tags/realtime-computation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Sequential monte carlo methods</title>
-      <link>http://nathangreen.netlify.com/tags/sequential-monte-carlo-methods/</link>
+      <link>/tags/sequential-monte-carlo-methods/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/tags/sequential-monte-carlo-methods/</guid>
+      <guid>/tags/sequential-monte-carlo-methods/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Small area</title>
+      <link>/tags/small-area/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/small-area/</guid>
       <description></description>
     </item>
     

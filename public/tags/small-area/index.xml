@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Small area on Dr Nathan Green</title>
+    <link>/tags/small-area/</link>
+    <description>Recent content in Small area on Dr Nathan Green</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-uk</language>
+    <copyright>&amp;copy; Nathan Green 2018</copyright>
+    <lastBuildDate>Tue, 03 Sep 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/tags/small-area/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Assessing local chlamydia screening performance by combining survey and administrative data to account for differences in local population characteristics event</title>
+      <link>/talk/rssconference2019/</link>
+      <pubDate>Tue, 03 Sep 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/talk/rssconference2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

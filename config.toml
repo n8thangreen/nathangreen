@@ -60,7 +60,8 @@ defaultContentLanguageInSubdir = false
   organizations = [ { name = "Imperial College London", url = "https://www.imperial.ac.uk/medicine/research-and-impact/themes/infectious-disease-epidemiology/" } ]
 
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
-  avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  #avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
+  avatar = "portrait_bw.jpg"
   email = "nathan.green@imperial.co.uk"
   address = "UG11, Dept of Infectious Disease Epidemiology, School of Public Health, Faculty of Medicine, Imperial College London, St Mary’s Campus, Norfolk Place, London, W2 1PG, UK"
   ##office_hours = ""

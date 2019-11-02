@@ -5,7 +5,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/blog/blog/</loc>
+      <loc>/blog/blog/</loc>
       <lastmod>2016-04-20T00:00:00+01:00</lastmod>
     </url>
     
@@ -14,7 +14,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/science_journalism/science_journalism/</loc>
+      <loc>/science_journalism/science_journalism/</loc>
       <lastmod>2016-04-20T00:00:00+01:00</lastmod>
     </url>
     
@@ -23,7 +23,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/blog/tags/</loc>
+      <loc>/blog/tags/</loc>
       <lastmod>2017-09-20T00:00:00+01:00</lastmod>
     </url>
     
@@ -32,7 +32,25 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/talk/talk_easypeasyjuly2019/</loc>
+      <loc>/talk/rssconference2019/</loc>
+      <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication/halliday2019/</loc>
+      <lastmod>2019-08-17T00:00:00+00:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/talk/talk_easypeasyjuly2019/</loc>
       <lastmod>2019-07-09T00:00:00+00:00</lastmod>
     </url>
     
@@ -41,7 +59,16 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/blog/test/</loc>
+      <loc>/publication/scirep2019/</loc>
+      <lastmod>2019-07-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/blog/test/</loc>
       <lastmod>2019-05-27T13:18:56+01:00</lastmod>
     </url>
     
@@ -50,7 +77,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/blog/dfdfd/</loc>
+      <loc>/blog/dfdfd/</loc>
       <lastmod>2019-05-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -59,7 +86,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/post/temp/</loc>
+      <loc>/post/temp/</loc>
       <lastmod>2018-07-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -68,7 +95,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/post/testr2/</loc>
+      <loc>/post/testr2/</loc>
       <lastmod>2018-07-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -77,7 +104,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/science_journalism/</loc>
+      <loc>/science_journalism/</loc>
       <lastmod>2018-03-14T00:00:00+00:00</lastmod>
     </url>
     
@@ -86,7 +113,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication/hayama2017/</loc>
+      <loc>/publication/hayama2017/</loc>
       <lastmod>2017-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -95,7 +122,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication/isense/</loc>
+      <loc>/publication/isense/</loc>
       <lastmod>2017-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -104,7 +131,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/blog/</loc>
+      <loc>/blog/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -113,7 +140,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/talk/example-talk/</loc>
+      <loc>/post/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -122,7 +149,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/post/</loc>
+      <loc>/science_communication/nerd_nite/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -131,7 +158,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/science_communication/nerd_nite/</loc>
+      <loc>/publication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -140,7 +167,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication/</loc>
+      <loc>/science_communication/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -149,7 +176,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/science_communication/</loc>
+      <loc>/talk/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -158,7 +185,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/talk/</loc>
+      <loc>/science_communication/science_showoff/</loc>
       <lastmod>2017-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -167,16 +194,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/science_communication/science_showoff/</loc>
-      <lastmod>2017-01-01T00:00:00+00:00</lastmod>
-    </url>
-    
-  
-    
-    
-    <url>
-    
-      <loc>http://nathangreen.netlify.com/r/cedecisiontree/</loc>
+      <loc>/r/cedecisiontree/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -185,7 +203,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/project/clarhc/</loc>
+      <loc>/project/clarhc/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -194,7 +212,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/public_engagement/guardian-project/</loc>
+      <loc>/public_engagement/guardian-project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -203,7 +221,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/project/hprurespiratory/</loc>
+      <loc>/project/hprurespiratory/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -212,7 +230,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/public_engagement/lollab_project/</loc>
+      <loc>/public_engagement/lollab_project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -221,7 +239,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/r/qaly/</loc>
+      <loc>/r/qaly/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -230,7 +248,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/r/ceplot/</loc>
+      <loc>/r/ceplot/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -239,7 +257,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/project/isense/</loc>
+      <loc>/project/isense/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
     </url>
     
@@ -248,7 +266,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/post/getting-started/</loc>
+      <loc>/post/getting-started/</loc>
       <lastmod>2018-01-13T00:00:00+00:00</lastmod>
     </url>
     
@@ -257,7 +275,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication/dangerfield2015/</loc>
+      <loc>/publication/dangerfield2015/</loc>
       <lastmod>2015-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -266,7 +284,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication/drobniewski2015/</loc>
+      <loc>/publication/drobniewski2015/</loc>
       <lastmod>2015-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -275,7 +293,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication/hardingesch2015/</loc>
+      <loc>/publication/hardingesch2015/</loc>
       <lastmod>2015-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -284,7 +302,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication/vankleef2014/</loc>
+      <loc>/publication/vankleef2014/</loc>
       <lastmod>2014-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -293,7 +311,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication/green-2014/</loc>
+      <loc>/publication/green-2014/</loc>
       <lastmod>2014-07-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -302,7 +320,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication/lowndes-2014/</loc>
+      <loc>/publication/lowndes-2014/</loc>
       <lastmod>2014-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -311,7 +329,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/science_journalism/02-12-2011-guardian/</loc>
+      <loc>/science_journalism/02-12-2011-guardian/</loc>
       <lastmod>2011-12-02T00:00:00+00:00</lastmod>
     </url>
     
@@ -320,7 +338,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/science_journalism/16-09-2011-guardian/</loc>
+      <loc>/science_journalism/16-09-2011-guardian/</loc>
       <lastmod>2011-09-16T00:00:00+00:00</lastmod>
     </url>
     
@@ -329,7 +347,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/science_journalism/25-08-2011-guardian/</loc>
+      <loc>/science_journalism/25-08-2011-guardian/</loc>
       <lastmod>2011-08-18T00:00:00+00:00</lastmod>
     </url>
     
@@ -338,7 +356,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/science_journalism/18-08-2011-guardian/</loc>
+      <loc>/science_journalism/18-08-2011-guardian/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -347,7 +365,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/science_journalism/01-09-2011-guardian/</loc>
+      <loc>/science_journalism/01-09-2011-guardian/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -356,7 +374,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/science_journalism/12-09-2011-guardian/</loc>
+      <loc>/science_journalism/12-09-2011-guardian/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -365,7 +383,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/science_journalism/13-09-2011-guardian/</loc>
+      <loc>/science_journalism/13-09-2011-guardian/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -374,7 +392,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/science_journalism/14-09-2011-guardian/</loc>
+      <loc>/science_journalism/14-09-2011-guardian/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -383,7 +401,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/science_journalism/17-08-2011-guardian/</loc>
+      <loc>/science_journalism/17-08-2011-guardian/</loc>
       <lastmod>2011-08-17T00:00:00+00:00</lastmod>
     </url>
     
@@ -392,7 +410,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication/ainsworth-2011/</loc>
+      <loc>/publication/ainsworth-2011/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -401,7 +419,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication/green-2010/</loc>
+      <loc>/publication/green-2010/</loc>
       <lastmod>2010-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -410,7 +428,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication/robins-2009/</loc>
+      <loc>/publication/robins-2009/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -419,7 +437,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication/clancy-2007/</loc>
+      <loc>/publication/clancy-2007/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
     </url>
     
@@ -428,7 +446,16 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication_types/0/</loc>
+      <loc>/publication/phdthesis/</loc>
+      <lastmod>2005-07-01T00:00:00+01:00</lastmod>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/publication_types/0/</loc>
       <lastmod>2014-08-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -438,7 +465,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication_types/1/</loc>
+      <loc>/publication_types/1/</loc>
       <lastmod>2015-08-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -448,8 +475,8 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication_types/2/</loc>
-      <lastmod>2015-08-17T00:00:00+00:00</lastmod>
+      <loc>/publication_types/2/</loc>
+      <lastmod>2019-08-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
     
@@ -458,7 +485,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication_types/4/</loc>
+      <loc>/publication_types/4/</loc>
       <lastmod>2017-08-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -468,7 +495,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/academic/</loc>
+      <loc>/tags/academic/</loc>
       <lastmod>2018-01-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -478,7 +505,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/acceptance/</loc>
+      <loc>/tags/acceptance/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -488,7 +515,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/and-healthcare/</loc>
+      <loc>/tags/and-healthcare/</loc>
       <lastmod>2014-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -498,7 +525,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/ated-with-substantial-morbidity/</loc>
+      <loc>/tags/ated-with-substantial-morbidity/</loc>
       <lastmod>2014-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -508,7 +535,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/bayesian-decision-theory/</loc>
+      <loc>/tags/bayesian-decision-theory/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -518,7 +545,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/bayesian-decision-theory/</loc>
+      <loc>/tags/bayesian-decision-theory/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -528,7 +555,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/categories/</loc>
+      <loc>/categories/</loc>
       <priority>0</priority>
     </url>
     
@@ -537,7 +564,17 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/computer-simulation/</loc>
+      <loc>/tags/chlamydia/</loc>
+      <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/computer-simulation/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -547,7 +584,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/decision-support/</loc>
+      <loc>/tags/decision-support/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -557,7 +594,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/demo/</loc>
+      <loc>/tags/demo/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -567,7 +604,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/differential-evolution-markov-chain/</loc>
+      <loc>/tags/differential-evolution-markov-chain/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -577,7 +614,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/discrete-event-simulation/</loc>
+      <loc>/tags/discrete-event-simulation/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -587,7 +624,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/</loc>
+      <loc>/</loc>
       <lastmod>2016-04-20T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -597,7 +634,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/dynamic-programming/</loc>
+      <loc>/tags/dynamic-programming/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -607,7 +644,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/dynamic-programming/</loc>
+      <loc>/tags/dynamic-programming/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -617,7 +654,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/general-stochastic-epidemic/</loc>
+      <loc>/tags/general-stochastic-epidemic/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -627,7 +664,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/general-stochastic-epidemic/</loc>
+      <loc>/tags/general-stochastic-epidemic/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -637,7 +674,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/hta/</loc>
+      <loc>/tags/hta/</loc>
       <lastmod>2019-07-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -647,7 +684,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/ha-bsi/</loc>
+      <loc>/tags/ha-bsi/</loc>
       <lastmod>2014-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -657,7 +694,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/health-economics/</loc>
+      <loc>/tags/health-economics/</loc>
       <lastmod>2019-07-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -667,7 +704,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/hospital-acquired-bloodstream-infection/</loc>
+      <loc>/tags/hospital-acquired-bloodstream-infection/</loc>
       <lastmod>2014-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -677,7 +714,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/immunisation-policies/</loc>
+      <loc>/tags/immunisation-policies/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -687,7 +724,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/immunisation-policies/</loc>
+      <loc>/tags/immunisation-policies/</loc>
       <lastmod>2007-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -697,7 +734,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/is-associ-/</loc>
+      <loc>/tags/is-associ-/</loc>
       <lastmod>2014-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -707,7 +744,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/length-of-stay/</loc>
+      <loc>/tags/length-of-stay/</loc>
       <lastmod>2014-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -717,7 +754,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/likelihood-calculations/</loc>
+      <loc>/tags/likelihood-calculations/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -727,7 +764,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/metropolis/</loc>
+      <loc>/tags/metropolis/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -737,7 +774,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/mortality/</loc>
+      <loc>/tags/mortality/</loc>
       <lastmod>2014-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -747,7 +784,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/multistate-model/</loc>
+      <loc>/tags/multistate-model/</loc>
       <lastmod>2014-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -757,7 +794,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/pediatric/</loc>
+      <loc>/tags/pediatric/</loc>
       <lastmod>2014-07-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -767,7 +804,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/policy-modelling/</loc>
+      <loc>/tags/policy-modelling/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -777,7 +814,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/project/</loc>
+      <loc>/project/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -787,7 +824,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/public-health/</loc>
+      <loc>/tags/public-health/</loc>
       <lastmod>2011-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -797,7 +834,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/public_engagement/</loc>
+      <loc>/public_engagement/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -807,7 +844,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/publication_types/</loc>
+      <loc>/publication_types/</loc>
       <lastmod>2014-08-17T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -817,7 +854,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/r/</loc>
+      <loc>/tags/r/</loc>
       <lastmod>2019-07-09T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -827,7 +864,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/realtime-computation/</loc>
+      <loc>/tags/realtime-computation/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -837,7 +874,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/r/</loc>
+      <loc>/r/</loc>
       <lastmod>2016-04-27T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -847,7 +884,7 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/sequential-monte-carlo-methods/</loc>
+      <loc>/tags/sequential-monte-carlo-methods/</loc>
       <lastmod>2009-01-01T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>
@@ -857,7 +894,17 @@
     
     <url>
     
-      <loc>http://nathangreen.netlify.com/tags/</loc>
+      <loc>/tags/small-area/</loc>
+      <lastmod>2019-09-03T00:00:00+00:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <loc>/tags/</loc>
       <lastmod>2018-01-13T00:00:00+00:00</lastmod>
       <priority>0</priority>
     </url>

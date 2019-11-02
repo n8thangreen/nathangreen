@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Acceptance on Dr Nathan Green</title>
-    <link>http://nathangreen.netlify.com/tags/acceptance/</link>
+    <link>/tags/acceptance/</link>
     <description>Recent content in Acceptance on Dr Nathan Green</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
     <copyright>&amp;copy; Nathan Green 2018</copyright>
     <lastBuildDate>Thu, 01 Jan 2009 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="http://nathangreen.netlify.com/tags/acceptance/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/acceptance/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Realtime Sequential Inference of Static Parameters with Expensive Likelihoods</title>
-      <link>http://nathangreen.netlify.com/publication/robins-2009/</link>
+      <link>/publication/robins-2009/</link>
       <pubDate>Thu, 01 Jan 2009 00:00:00 +0000</pubDate>
       
-      <guid>http://nathangreen.netlify.com/publication/robins-2009/</guid>
+      <guid>/publication/robins-2009/</guid>
       <description></description>
     </item>
     
